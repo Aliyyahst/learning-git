@@ -17,8 +17,8 @@
 </head>
 <body>
 
-<h1>This is a Heading</h1>
-<p>This is another paragraph.</p>
+<h1>This is another intresting Heading</h1>
+<p>This is another intresting paragraph.</p>
 
 </body>
 </html>
